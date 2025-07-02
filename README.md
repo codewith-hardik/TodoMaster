@@ -45,10 +45,10 @@ It helps you organize your tasks effectively with features like priorities, filt
 ## 🖼️ Screenshots
 
 ### 📱 Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/1.png)
 
 ### 🖥️ Responsive View
-![Responsive](screenshots/mobiledemo.png)
+![Responsive](screenshots/2.png)
 
 
 ---
