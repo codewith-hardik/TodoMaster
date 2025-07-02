@@ -3,8 +3,6 @@ import { FaTasks, FaGithub, FaTwitter, FaSearch, FaBell, FaUserCircle, FaCog, Fa
 
 const Navbar = ({ onSearch }) => {
   const [menuOpen, setMenuOpen] = useState(false);
-  const [notifications, setNotifications] = useState(3); // Example notification count
-  const [searchOpen, setSearchOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const [searchTerm, setSearchTerm] = useState('');
   const navbarRef = useRef(null);
