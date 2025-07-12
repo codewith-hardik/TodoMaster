@@ -13,7 +13,7 @@
 **TodoMaster** is a modern and responsive **Todo Web App** built with **React, Redux Toolkit, Tailwind CSS, and Vite**.  
 It helps you organize your tasks effectively with features like priorities, filters, and deadlines—all in an intuitive user interface.
 
-👉 **[Live Demo](https://codewith-hardik.github.io/TodoMaster/)**
+👉 **[Live Demo](https://todo-master-five.vercel.app/)**
 
 ---
 
