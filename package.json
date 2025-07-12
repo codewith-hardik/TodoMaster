@@ -1,7 +1,6 @@
 {
-  "name": "01_bg_changer",
+  "name": "todomaster",
   "private": true,
-  "homepage": "https://codewith-hardik.github.io/TodoMaster",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

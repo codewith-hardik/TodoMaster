@@ -4,7 +4,7 @@ import { removeTodo, toggleTodo, editTodo } from '../features/todo/todoSlice'
 import { FaTrash, FaEdit, FaCheck, FaClock, FaFlag, FaChevronDown, FaChevronUp } from 'react-icons/fa'
 
 const TodoList = ({ todos = null }) => {
-    const allTodos = useSelector(state => state.todos);
+    const allTodos = useSelector(state => state.todos.todos);
     const dispatch = useDispatch();
     const [editingId, setEditingId] = useState(null);
     const [editText, setEditText] = useState('');

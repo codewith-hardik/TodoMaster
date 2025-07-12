@@ -21,7 +21,7 @@ function App() {
   const [searchTerm, setSearchTerm] = useState('');
   const [lastUpdated, setLastUpdated] = useState(null);
   
-  const todos = useSelector(state => state.todos);
+  const todos = useSelector(state => state.todos.todos);
   const dispatch = useDispatch();
   
   const completedTodos = todos?.filter(todo => todo.completed)?.length || 0;
