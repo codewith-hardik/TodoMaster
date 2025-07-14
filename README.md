@@ -31,8 +31,8 @@ It helps you organize your tasks effectively with features like priorities, filt
 
 ## 🛠 Technologies Used
 
-- **HTML**
-- **CSS**
+- **HTML5**
+- **CSS3**
 - **JavaScript**
 - **React**
 - **Vite**
